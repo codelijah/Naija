@@ -1,6 +1,5 @@
 # NajmAI – AI-Powered Design Assistant
 
-<<<<<<< HEAD
 NajmAI is a modern, responsive landing page for an AI-powered design assistant. Built with **HTML**, **CSS**, **JavaScript**, and **Bootstrap** (via CDN), it showcases features, pricing, customer reviews, and more.
 
 ## Features
